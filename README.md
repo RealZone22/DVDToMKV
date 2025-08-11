@@ -33,9 +33,9 @@ Downloading or distributing copyrighted content without permission from the righ
 The user is solely responsible for complying with applicable laws in their jurisdiction.
 
 ## Usage
-1. Clone the repo<br>
-2. Go into the docker dir<br>
-3. Execute the start.sh script<br>
+<span>1. Clone the repo</span><br>
+<span>2. Go into the docker dir</span><br>
+<span>3. Execute the start.sh script</span><br>
 
 ## Security Vulnerabilities
 
