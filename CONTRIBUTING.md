@@ -72,6 +72,6 @@ Write clear, concise commit messages. Follow these conventions:
 - **Use the imperative mood** (e.g., "Add feature" instead of "Added feature").
 ## Additional Resources
 
-- [Issue Tracker](https://github.com/RealZone22/Media-Ripper/issues)
+- [Issue Tracker](https://github.com/RealZone22/DVDToMKV/issues)
 
 We are grateful for your contributions and look forward to collaborating with you!
